@@ -2,7 +2,13 @@
   "permissions": {
     "allow": [
       "Bash(git config:*)",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Bash(chmod:*)",
+      "WebSearch",
+      "Bash(export PATH=~/.npm-global/bin:$PATH)",
+      "Bash(backlog init:*)",
+      "Bash(backlog mcp --help:*)",
+      "Bash(git add:*)"
     ]
   }
 }

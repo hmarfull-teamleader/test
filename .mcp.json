@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "backlog": {
+      "command": "/home/hmarfull/.npm-global/bin/backlog",
+      "args": ["mcp", "start"],
+      "cwd": "/home/hmarfull/workspace/test"
+    }
+  }
+}
